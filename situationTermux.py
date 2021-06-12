@@ -22,7 +22,7 @@ except:
 print('  ')
 ko = input('Do you want to use tool again?  y/n ----->>>> ')
 if ko == 'yes' or ko == 'y':
-    os.system('python situation.py')
+    os.system('python situationTermux.py')
 elif ko == 'no' or ko == 'n':
     os.system('clear')
     os.system('figlet bye')
