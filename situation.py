@@ -31,3 +31,10 @@ except:
     print(f.renderText('503 504'))
     print('''maybe yore site adrees is wrong
     or your Error is 504 and 503 that care Error''')
+ll = input('Do you want to use this tool again ? y/n --------->>>>>')
+if ll == 'y' or ll == 'yes':
+ os.system('python situation.py')
+elif ll == 'n' or ll == 'no':
+ f = Figlet(font='banner3-D')
+ print(f.renderText('bye'))
+ 
