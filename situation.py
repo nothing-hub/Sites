@@ -37,4 +37,5 @@ if ll == 'y' or ll == 'yes':
 elif ll == 'n' or ll == 'no':
  f = Figlet(font='banner3-D')
  print(f.renderText('bye'))
- 
+ else:
+  print('something went wrong')
