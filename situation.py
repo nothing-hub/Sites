@@ -13,7 +13,7 @@ print('''
  ▀▀   ▀▀▀    ▀▀▀▀▀     ▀▀▀ ▀▀  ██ ▀▀▀       ██
                                ██          ███''')
 print('''                        this a tool for check site standing
-                                 telegram id : @Nedpy ''')
+                                 telegram id : @ir_cyber_mp ''')
 print('   ')
 try:
     ko = input('Enter your site ---------->>>>> ')
